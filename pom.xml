@@ -14,8 +14,8 @@
 
     <properties>
         <!-- If `java -version` on your machine reports a different major version,
-             change BOTH numbers below to match (e.g. 21). -->
-        <maven.compiler.release>17</maven.compiler.release>
+             change BOTH numbers below to match (e.g. 17). -->
+        <maven.compiler.release>21</maven.compiler.release>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <junit.version>5.10.2</junit.version>
         <exec.mainClass>com.interview.App</exec.mainClass>

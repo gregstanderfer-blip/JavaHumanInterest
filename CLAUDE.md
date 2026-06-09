@@ -9,7 +9,7 @@ This is a timed technical interview workspace. Read this before generating code.
   dependency that directly solves the core problem. JUnit 5 (test scope) is the only
   allowed third-party dependency unless I explicitly approve another.
 - **Backend only.** No frontend, UI, or web server unless explicitly requested.
-- **Java 17** target (see `maven.compiler.release` in `pom.xml`).
+- **Java 21** target (see `maven.compiler.release` in `pom.xml`).
 
 ## How I want you to work
 - Prefer small, targeted changes over one giant generated file. I will be reading and

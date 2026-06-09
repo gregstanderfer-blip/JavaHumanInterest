@@ -1,6 +1,6 @@
 # JavaHumanInterest
 
-Backend interview workspace. Maven + Java 17 + JUnit 5. No external services, minimal
+Backend interview workspace. Maven + Java 21 + JUnit 5. No external services, minimal
 third-party libraries, backend only.
 
 ## Pre-interview checklist
@@ -25,7 +25,7 @@ mvn -q compile exec:java
 Expected output from step 4:
 
 ```
-JavaHumanInterest is running. Java 17.x.x on Mac OS X
+JavaHumanInterest is running. Java 21.x.x on Mac OS X
 Toolchain verified — ready to build.
 ```
 
